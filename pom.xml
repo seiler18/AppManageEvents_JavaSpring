@@ -7,7 +7,7 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <!-- Última estable (Spring 7, Security 7, Hibernate 7, Tomcat 11).
              La 4.2 sigue en milestones. -->
-        <version>4.1.1</version>
+        <version>4.1.2</version>
         <relativePath/>
     </parent>
     <groupId>cl.seiler</groupId>
@@ -19,7 +19,7 @@
     <properties>
         <!-- Java 25 es la LTS vigente: soporte de seguridad hasta 2031 o más. -->
         <java.version>25</java.version>
-        <springdoc.version>3.1.1</springdoc.version>
+        <springdoc.version>3.2.0</springdoc.version>
         <zxing.version>3.5.4</zxing.version>
         <embedded-postgres.version>2.2.2</embedded-postgres.version>
     </properties>
